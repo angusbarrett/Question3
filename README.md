@@ -2,7 +2,7 @@
 
 This repository contains an analysis of average monthly rainfall in Melbourne and Oxford from 1855 to 2015. 
 
-The input data is in `data`, the source code is in `source`, and the results are in `output`.
+The input data (raw and processed) are in `data`, the source code is in `source`, and the results are in `output`.
 
 ## Data
 
