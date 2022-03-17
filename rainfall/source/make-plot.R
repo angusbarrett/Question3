@@ -22,7 +22,11 @@ g <- ggplot(
   theme_classic() +
   theme(axis.text.x = element_text(angle = -45))
 
-ggsave(filename = "result.png",
+ggsave(filename = "output/result.png",
        plot = g,
        height = 10.5, width = 14.8,
        units = "cm")
+
+sink(file = "output/package-versions.txt2")
+sessionInfo()
+sink()
