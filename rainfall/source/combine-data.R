@@ -51,3 +51,7 @@ write.table(x = plot_df,
             file = "average-rainfall.csv",
             sep = ",",
             row.names = FALSE)
+
+sink(file = "output/package-versions.txt1")
+sessionInfo()
+sink()
