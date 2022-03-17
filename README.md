@@ -4,6 +4,8 @@ This repository contains an analysis of average monthly rainfall in Melbourne an
 
 The materials used are provided in the directory `rainfall`
 
+## Directory Architecture
+
 ### Source 
 
 Within the directory `rainfall`, the scripts for this analysis are in `source`. They carry out a two-step analysis:
