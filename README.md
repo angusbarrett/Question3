@@ -17,4 +17,4 @@ The raw input data from Melbourne and Oxford and the processed data for plotting
 
 ### Output
 
-The results of this analysis - including the plot and recordings of the session informtaion - are in `output`
+The results of this analysis - including the plot and recordings of the session information for both scripts - are in `output`
