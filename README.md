@@ -1,6 +1,6 @@
 # Question-3
 
-This repository contains an analysis of average monthly rainfall in Melbourne and Oxford from 1855 to 2015. I carried this analysis out as part of the MBiol Year 3 Computing Skills GitHub assignment.  
+This repository contains an analysis of average monthly rainfall in Melbourne and Oxford from 1855 to 2015. I created this repository and carried this analysis out as part of Question 3 in the MBiol Year 3 Computing Skills GitHub assignment.  
 
 The materials used are provided in the directory `rainfall`
 
