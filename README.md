@@ -6,7 +6,7 @@ The materials used are provided in the directory `rainfall`
 
 ### Source 
 
-The scripts for this analysis are in `source`. They carry out a two-step analysis:
+Within the directory `rainfall`, the scripts for this analysis are in `source`. They carry out a two-step analysis:
 
 1. Combining the raw data for Melbourne and Oxford
 2. Plotting the processed data 
